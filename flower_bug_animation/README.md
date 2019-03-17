@@ -1,0 +1,4 @@
+# Flower and Bug Animation
+This is an animation based on a [botanical work](https://www.rijksmuseum.nl/en/collection/RP-T-1951-330) in the collection of the Rijksmuseum in Amsterdam. The work can most likely be attributed to Pieter Withoos, although there is no strict consensus around this attribution. It was likely made between 1664 and 1693, and depicts a simple scene: a sunny yellow ranunculus and a hovering bug poised inches away in mid-air.
+
+This animation was inspired by the [animation projects of Simone Seagle](http://tangerinedev.com/play/cat-watching-spider), who has made lovely works with open sources images in the Met's collection. I used Gimp and PixiJS to complete the project. 
