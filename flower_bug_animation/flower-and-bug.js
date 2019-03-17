@@ -11,7 +11,7 @@ app.stage.addChild(background);
 var bug = PIXI.Sprite.from('https://s3.us-east-2.amazonaws.com/morganfeir/images/bug.png')
 
 var animationConfig = {
-    bugMinSpeed: 0.4,
+    bugMinSpeed: 0.6,
     bugSpeedRange: 5,
     bugSpriteRotation: 2.25,
     bugDestinationThreshold: 20,
